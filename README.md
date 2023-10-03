@@ -1,5 +1,5 @@
 
-![canerkaseler_shimmer_300](https://github.com/canerkaseler/jetpack-compose-shimmer-loading-animation/assets/130801186/d803ce16-835c-4937-a385-5c12d94aa02e)
+![canerkaseler_full_shimmer_2023_300](https://github.com/canerkaseler/jetpack-compose-shimmer-loading-animation/assets/130801186/f37c1447-3db7-4931-9815-49a5e89496d7)
 
 # Shimmer & Shadow Loading Effect Animation with Jetpack Compose
 
