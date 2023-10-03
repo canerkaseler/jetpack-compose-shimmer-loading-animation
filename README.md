@@ -1,8 +1,9 @@
-![canerkaseler_shimmer_300](https://github.com/canerkaseler/jetpack-compose-shimmer-loading-animation/assets/130801186/01c63c0b-6d90-441d-a1a9-6802b62def30)
+
+![canerkaseler_shimmer_300](https://github.com/canerkaseler/jetpack-compose-shimmer-loading-animation/assets/130801186/d803ce16-835c-4937-a385-5c12d94aa02e)
 
 # Shimmer & Shadow Loading Effect Animation with Jetpack Compose
 
-![caner_kaseler_shimmer_effect](https://github.com/canerkaseler/jetpack-compose-shimmer-loading-animation/assets/130801186/c5f4a0f8-2343-4e95-ad31-9e231ac36c90)
+![caner_kaseler_shimmer_effect](https://github.com/canerkaseler/jetpack-compose-shimmer-loading-animation/assets/130801186/33a04f1b-82d2-4bbd-8955-77b76acff2fb)
 
 This repository aims to show how to create a shimmer & shadow loading effect animation with native Jetpack Compose for light and dark modes in Android applications.
 
